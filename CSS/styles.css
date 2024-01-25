@@ -1,0 +1,54 @@
+    /* Add some basic styling to make the message visually appealing */
+body {
+        font-family: Arial, sans-serif;
+        text-align: center;
+        padding: 20px;
+  background-color: powderblue;
+  
+    }
+h1 {
+  color: red;
+}
+p {
+  color: purple;
+  font-size: 140%;
+}
+
+}
+abbr {
+  font-family: sans-serif;
+  color: yellow;
+}
+img{
+  width: 30px;
+  height: 30px;
+  border:2px solid black;
+}
+img:hover {
+  width: 100px;
+  height: 100px;
+  border:3px solid green;
+}
+a:link {
+  color: crimson;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: red;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: green;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
